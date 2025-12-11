@@ -49,23 +49,13 @@ Interactive Power BI dashboard providing comprehensive sales analytics across 4 
 5. Top 5 customers account for 2.1% of total sales
 
 ## 🔗 Live Dashboard
-[View Interactive Dashboard Here - Signin/Login Required](https://app.powerbi.com/groups/me/reports/d1c954dd-d975-4782-a1d3-16a854b6c488/a607fbe730dcc33b7f76?experience=power-bi)
+[View Interactive Dashboard Here](YOUR_POWER_BI_LINK)
 
 ## 📸 Screenshots
-### Executive Summary
-<img width="2310" height="1289" alt="ExecutiveSalesSummary" src="https://github.com/user-attachments/assets/9f289599-5a3c-4f05-872c-1b9f36657ebb" />
-
-### Product Analysis
-<img width="2311" height="1621" alt="PortfolioAnalysis" src="https://github.com/user-attachments/assets/81f4cdc0-9fbd-44f2-96db-6de10300403a" />
-
-### Customer Insights
-<img width="2317" height="1284" alt="CustomerInsights" src="https://github.com/user-attachments/assets/40bc7554-fa85-4e5e-bd10-05c4ad32c90a" />
-
-### Regional Performance
-<img width="2316" height="1302" alt="RegionalPerformance" src="https://github.com/user-attachments/assets/47106366-b578-4cfe-8270-99bdfab6e259" />
-
-### Phone View
-<img width="1888" height="1623" alt="Phoneview" src="https://github.com/user-attachments/assets/440d8798-656e-4b70-a5e9-a147d7cf2dcc" />
+![Executive Summary](screenshots/executive.png)
+![Product Analysis](screenshots/product.png)
+![Customer Insights](screenshots/customer.png)
+![Regional Performance](screenshots/regional.png)
 
 ## 🚀 How to Use
 1. Navigate between pages using page navigation
