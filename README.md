@@ -48,14 +48,18 @@ Interactive Power BI dashboard providing comprehensive sales analytics across 4 
 4. November shows peak sales due to holiday season
 5. Top 5 customers account for 2.1% of total sales
 
+## Data Source 
+https://www.kaggle.com/datasets/juhi1994/superstore
+
 ## 🔗 Live Dashboard
-[View Interactive Dashboard Here](YOUR_POWER_BI_LINK)
+[View Interactive Dashboard Here](https://app.powerbi.com/groups/me/reports/d1c954dd-d975-4782-a1d3-16a854b6c488/b0355253a1c8800a2122?experience=power-bi)
 
 ## 📸 Screenshots
 ![Executive Summary](screenshots/executive.png)
 ![Product Analysis](screenshots/product.png)
 ![Customer Insights](screenshots/customer.png)
 ![Regional Performance](screenshots/regional.png)
+![Regional Performance](screenshots/phoneview.png)
 
 ## 🚀 How to Use
 1. Navigate between pages using page navigation
